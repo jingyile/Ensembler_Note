@@ -44,11 +44,11 @@ Conda安装与使用：https://www.jianshu.com/p/edaa744ea47d
 
 在当前目录（Demo）下初始化一个新的项目，如下：
 
-![](images/iShot2021-05-27 09.56.15.png)
+![](images/p1.png)
 
 初始化后的这些文件夹都是空的，后面逐一探究存放内容。
 
-![](images/iShot2021-05-28 09.36.40.png)
+![](images/p4.png)
 
 ```
 ensembler quickmodel --target_uniprot_entry_name EGFR_HUMAN --uniprot_domain_regex '^Protein kinase' --template_pdbids 1M14,4AF3 --no-loopmodel
@@ -56,9 +56,9 @@ ensembler quickmodel --target_uniprot_entry_name EGFR_HUMAN --uniprot_domain_reg
 
 1M14,4AF3 都是Pdb 目前不知道为啥是用这两个
 
-![](images/iShot2021-05-27 10.24.08.png)
+![](images/p2.png)
 
-![](images/iShot2021-05-27 10.23.47.png)
+![](images/p3.png)
 
 
 
